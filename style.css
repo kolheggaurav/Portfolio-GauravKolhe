@@ -5,6 +5,7 @@
 * {
   margin: 0;
   padding: 0;
+  background-color: rgb(225, 189, 97);
 }
 
 body {
@@ -16,7 +17,7 @@ html {
 }
 
 p {
-  color: rgb(85, 85, 85);
+  color: rgb(6, 6, 6);
 }
 
 /* TRANSITION */
